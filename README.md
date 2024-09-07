@@ -104,14 +104,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-### 💻 Developed By: [Muhammed Suhail](https://yourwebsite.com)
+### 💻 Developed By: [Muhammed Suhail](https://my-portfoliosuhail-mskcmds-projects.vercel.app)
 
 ```
-
-### Additional Steps:
-
-1. **Icons**: GitHub Markdown supports icons like 💳, 🛒, and ⚛️. You can use these emojis to make the README visually appealing.
-   
-2. **Styling**: While markdown doesn't support advanced styling like fonts, good use of headers, emojis, and sectioning can make it readable.
-
-You can adjust the paths for your project structure and add any additional details as needed! Let me know if you need further modifications!
