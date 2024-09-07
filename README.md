@@ -33,12 +33,11 @@ A small project to learn Stripe payment integration with a simple product listin
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
-```
+git clone https://github.com/mskcmd/stripe-payment-integration.git
 
 ### 2. Navigate to the project folder:
 ```bash
-cd your-repository-name
+cd stripe
 ```
 
 ### 3. Install dependencies for both front-end and back-end:
